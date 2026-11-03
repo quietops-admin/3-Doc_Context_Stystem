@@ -18,3 +18,13 @@ cat > docs/PROJECT_MEMORY.md << 'EOF'
 <!-- === AUTO-UPDATE START ===
 
 === AUTO-UPDATE END === -->
+
+===== INSIGHTS_LOG.md =====
+<!-- === AUTO-UPDATE START ===
+
+=== AUTO-UPDATE END === -->
+
+===== NEXT_ACTIONS.md =====
+<!-- === AUTO-UPDATE START ===
+
+=== AUTO-UPDATE END === -->
